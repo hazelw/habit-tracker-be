@@ -1,0 +1,19 @@
+{
+  "name": "habit-tracker-be",
+  "version": "1.0.0",
+  "description": "some kind of habit tracker maybe",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hazelw/habit-tracker-be.git"
+  },
+  "author": "Hazel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hazelw/habit-tracker-be/issues"
+  },
+  "homepage": "https://github.com/hazelw/habit-tracker-be#readme"
+}
